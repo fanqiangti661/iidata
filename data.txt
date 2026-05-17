@@ -1,1 +1,273 @@
-QXJyYXkkIm91dGJvdW5kcyI6WwogICAgewogICAgICAgICJwcm90b2NvbCI6ICJmcmVlZG9tIiwKICAgICAgICAidGFnIjogImRpcmVjdCIKICAgIH0sCiAgICB7CiAgICAgICAgInByb3RvY29sIjogInRyb2phbiIsCiAgICAgICAgInRhZyI6ICJ4cmF5LW91dCIsCiAgICAgICAgInNldHRpbmdzIjogewogICAgICAgICAgICAic2VydmVycyI6IFsKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAiYWRkcmVzcyI6ICI0NS44LjExMi4xNTgiLAogICAgICAgICAgICAgICAgICAgICJwb3J0IjogNDQzLAogICAgICAgICAgICAgICAgICAgICJwYXNzd29yZCI6ICI4cjxbOSdsNmhBTyM4WlFpIiwKICAgICAgICAgICAgICAgICAgICAibGV2ZWwiOiAwLAogICAgICAgICAgICAgICAgICAgICJlbWFpbCI6ICLml6XmnKzlpKfpmKogeFRvbVwvQVM0Nzg1IgogICAgICAgICAgICAgICAgfQogICAgICAgICAgICBdCiAgICAgICAgfSwKICAgICAgICAic3RyZWFtU2V0dGluZ3MiOiB7CiAgICAgICAgICAgICJuZXR3b3JrIjogIndzIiwKICAgICAgICAgICAgInNlY3VyaXR5IjogInRscyIsCiAgICAgICAgICAgICJ0bHNTZXR0aW5ncyI6IHsKICAgICAgICAgICAgICAgICJhbGxvd0luc2VjdXJlIjogdHJ1ZSwKICAgICAgICAgICAgICAgICJzZXJ2ZXJOYW1lIjogIktvbWEtWVQuUEFHZVMuRGV2IgogICAgICAgICAgICB9LAogICAgICAgICAgICAid3NTZXR0aW5ncyI6IHsKICAgICAgICAgICAgICAgICJwYXRoIjogIlwvdHJUZWxlZ3JhbfCfh6jwn4ezIEBXYW5nQ2FpMiIsCiAgICAgICAgICAgICAgICAiaGVhZGVycyI6IHsKICAgICAgICAgICAgICAgICAgICAiSG9zdCI6ICIiCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9Cl0kJA==QXJyYXkkIm91dGJvdW5kcyI6WwogICAgewogICAgICAgICJwcm90b2NvbCI6ICJmcmVlZG9tIiwKICAgICAgICAidGFnIjogImRpcmVjdCIKICAgIH0sCiAgICB7CiAgICAgICAgInByb3RvY29sIjogInRyb2phbiIsCiAgICAgICAgInRhZyI6ICJ4cmF5LW91dCIsCiAgICAgICAgInNldHRpbmdzIjogewogICAgICAgICAgICAic2VydmVycyI6IFsKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAiYWRkcmVzcyI6ICI3Mi41Ni4yMS40OSIsCiAgICAgICAgICAgICAgICAgICAgInBvcnQiOiA0NDMsCiAgICAgICAgICAgICAgICAgICAgInBhc3N3b3JkIjogIjhyPFs5J2w2aEFPIzhaUWkiLAogICAgICAgICAgICAgICAgICAgICJsZXZlbCI6IDAsCiAgICAgICAgICAgICAgICAgICAgImVtYWlsIjogIue+juWbvSDkvZvnvZfph4zovr7lt57ov4jpmL/lr4bluIIiCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIF0KICAgICAgICB9LAogICAgICAgICJzdHJlYW1TZXR0aW5ncyI6IHsKICAgICAgICAgICAgIm5ldHdvcmsiOiAid3MiLAogICAgICAgICAgICAic2VjdXJpdHkiOiAidGxzIiwKICAgICAgICAgICAgInRsc1NldHRpbmdzIjogewogICAgICAgICAgICAgICAgImFsbG93SW5zZWN1cmUiOiB0cnVlLAogICAgICAgICAgICAgICAgInNlcnZlck5hbWUiOiAiS29tYS1ZVC5QQUdlUy5EZXYiCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgICJ3c1NldHRpbmdzIjogewogICAgICAgICAgICAgICAgInBhdGgiOiAiXC90clRlbGVncmFt8J+HqPCfh7MgQFdhbmdDYWkyIiwKICAgICAgICAgICAgICAgICJoZWFkZXJzIjogewogICAgICAgICAgICAgICAgICAgICJIb3N0IjogIktvbWEtWVQuUEFHZVMuRGV2IgogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfQpdJCQ=QXJyYXkkIm91dGJvdW5kcyI6WwogICAgewogICAgICAgICJwcm90b2NvbCI6ICJmcmVlZG9tIiwKICAgICAgICAidGFnIjogImRpcmVjdCIKICAgIH0sCiAgICB7CiAgICAgICAgInByb3RvY29sIjogInRyb2phbiIsCiAgICAgICAgInRhZyI6ICJ4cmF5LW91dCIsCiAgICAgICAgInNldHRpbmdzIjogewogICAgICAgICAgICAic2VydmVycyI6IFsKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAiYWRkcmVzcyI6ICIxNjYuMS42MC4xMjEiLAogICAgICAgICAgICAgICAgICAgICJwb3J0IjogNDQzLAogICAgICAgICAgICAgICAgICAgICJwYXNzd29yZCI6ICI4cjxbOSdsNmhBTyM4WlFpIiwKICAgICAgICAgICAgICAgICAgICAibGV2ZWwiOiAwLAogICAgICAgICAgICAgICAgICAgICJlbWFpbCI6ICLnvo7lm70gVjJDUk9TUy5DT00iCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIF0KICAgICAgICB9LAogICAgICAgICJzdHJlYW1TZXR0aW5ncyI6IHsKICAgICAgICAgICAgIm5ldHdvcmsiOiAid3MiLAogICAgICAgICAgICAic2VjdXJpdHkiOiAidGxzIiwKICAgICAgICAgICAgInRsc1NldHRpbmdzIjogewogICAgICAgICAgICAgICAgImFsbG93SW5zZWN1cmUiOiB0cnVlLAogICAgICAgICAgICAgICAgInNlcnZlck5hbWUiOiAiS29tYS1ZVC5QQUdlUy5EZXYiCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgICJ3c1NldHRpbmdzIjogewogICAgICAgICAgICAgICAgInBhdGgiOiAiXC90clRlbGVncmFt8J+HqPCfh7MgQFdhbmdDYWkyIiwKICAgICAgICAgICAgICAgICJoZWFkZXJzIjogewogICAgICAgICAgICAgICAgICAgICJIb3N0IjogIktvbWEtWVQuUEFHZVMuRGV2IgogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfQpdJCQ=QXJyYXkkIm91dGJvdW5kcyI6WwogICAgewogICAgICAgICJwcm90b2NvbCI6ICJmcmVlZG9tIiwKICAgICAgICAidGFnIjogImRpcmVjdCIKICAgIH0sCiAgICB7CiAgICAgICAgInByb3RvY29sIjogInRyb2phbiIsCiAgICAgICAgInRhZyI6ICJ4cmF5LW91dCIsCiAgICAgICAgInNldHRpbmdzIjogewogICAgICAgICAgICAic2VydmVycyI6IFsKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAiYWRkcmVzcyI6ICIyMTYuMTI4LjEzNC4xMTYiLAogICAgICAgICAgICAgICAgICAgICJwb3J0IjogNDQzLAogICAgICAgICAgICAgICAgICAgICJwYXNzd29yZCI6ICI4cjxbOSdsNmhBTyM4WlFpIiwKICAgICAgICAgICAgICAgICAgICAibGV2ZWwiOiAwLAogICAgICAgICAgICAgICAgICAgICJlbWFpbCI6ICLnvo7lm70gVjJDUk9TUy5DT00iCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIF0KICAgICAgICB9LAogICAgICAgICJzdHJlYW1TZXR0aW5ncyI6IHsKICAgICAgICAgICAgIm5ldHdvcmsiOiAid3MiLAogICAgICAgICAgICAic2VjdXJpdHkiOiAidGxzIiwKICAgICAgICAgICAgInRsc1NldHRpbmdzIjogewogICAgICAgICAgICAgICAgImFsbG93SW5zZWN1cmUiOiB0cnVlLAogICAgICAgICAgICAgICAgInNlcnZlck5hbWUiOiAiS29tYS1ZVC5QQUdlUy5EZXYiCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgICJ3c1NldHRpbmdzIjogewogICAgICAgICAgICAgICAgInBhdGgiOiAiXC90clRlbGVncmFt8J+HqPCfh7MgQFdhbmdDYWkyIiwKICAgICAgICAgICAgICAgICJoZWFkZXJzIjogewogICAgICAgICAgICAgICAgICAgICJIb3N0IjogIktvbWEtWVQuUEFHZVMuRGV2IgogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfQpdJCQ=QXJyYXkkIm91dGJvdW5kcyI6WwogICAgewogICAgICAgICJwcm90b2NvbCI6ICJmcmVlZG9tIiwKICAgICAgICAidGFnIjogImRpcmVjdCIKICAgIH0sCiAgICB7CiAgICAgICAgInByb3RvY29sIjogInRyb2phbiIsCiAgICAgICAgInRhZyI6ICJ4cmF5LW91dCIsCiAgICAgICAgInNldHRpbmdzIjogewogICAgICAgICAgICAic2VydmVycyI6IFsKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAiYWRkcmVzcyI6ICI5MS4xMDcuMTU4LjIxMSIsCiAgICAgICAgICAgICAgICAgICAgInBvcnQiOiA4NDQzLAogICAgICAgICAgICAgICAgICAgICJwYXNzd29yZCI6ICI4cjxbOSdsNmhBTyM4WlFpIiwKICAgICAgICAgICAgICAgICAgICAibGV2ZWwiOiAwLAogICAgICAgICAgICAgICAgICAgICJlbWFpbCI6ICLkv4TnvZfmlq8gVjJDUk9TUy5DT00iCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIF0KICAgICAgICB9LAogICAgICAgICJzdHJlYW1TZXR0aW5ncyI6IHsKICAgICAgICAgICAgIm5ldHdvcmsiOiAid3MiLAogICAgICAgICAgICAic2VjdXJpdHkiOiAidGxzIiwKICAgICAgICAgICAgInRsc1NldHRpbmdzIjogewogICAgICAgICAgICAgICAgImFsbG93SW5zZWN1cmUiOiBmYWxzZSwKICAgICAgICAgICAgICAgICJzZXJ2ZXJOYW1lIjogIktvbWEtWVQuUEFHZVMuRGV2IgogICAgICAgICAgICB9LAogICAgICAgICAgICAid3NTZXR0aW5ncyI6IHsKICAgICAgICAgICAgICAgICJwYXRoIjogIlwvdHJUZWxlZ3JhbfCfh6jwn4ezIEBXYW5nQ2FpMiIsCiAgICAgICAgICAgICAgICAiaGVhZGVycyI6IHsKICAgICAgICAgICAgICAgICAgICAiSG9zdCI6ICJLb21hLVlULlBBR2VTLkRldiIKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0KXSQkQXJyYXkkIm91dGJvdW5kcyI6WwogICAgewogICAgICAgICJwcm90b2NvbCI6ICJmcmVlZG9tIiwKICAgICAgICAidGFnIjogImRpcmVjdCIKICAgIH0sCiAgICB7CiAgICAgICAgInByb3RvY29sIjogInRyb2phbiIsCiAgICAgICAgInRhZyI6ICJ4cmF5LW91dCIsCiAgICAgICAgInNldHRpbmdzIjogewogICAgICAgICAgICAic2VydmVycyI6IFsKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAiYWRkcmVzcyI6ICI1Ny4xMjkuNDcuNCIsCiAgICAgICAgICAgICAgICAgICAgInBvcnQiOiAyMDUzLAogICAgICAgICAgICAgICAgICAgICJwYXNzd29yZCI6ICI4cjxbOSdsNmhBTyM4WlFpIiwKICAgICAgICAgICAgICAgICAgICAibGV2ZWwiOiAwLAogICAgICAgICAgICAgICAgICAgICJlbWFpbCI6ICLms5Xlm70g5Zu96ZmF6Iiq56m655S16K6v6ZuG5Zui5YWs5Y+4KFNJVEEpIgogICAgICAgICAgICAgICAgfQogICAgICAgICAgICBdCiAgICAgICAgfSwKICAgICAgICAic3RyZWFtU2V0dGluZ3MiOiB7CiAgICAgICAgICAgICJuZXR3b3JrIjogIndzIiwKICAgICAgICAgICAgInNlY3VyaXR5IjogInRscyIsCiAgICAgICAgICAgICJ0bHNTZXR0aW5ncyI6IHsKICAgICAgICAgICAgICAgICJhbGxvd0luc2VjdXJlIjogZmFsc2UsCiAgICAgICAgICAgICAgICAic2VydmVyTmFtZSI6ICJLb21hLVlULlBBR2VTLkRldiIKICAgICAgICAgICAgfSwKICAgICAgICAgICAgIndzU2V0dGluZ3MiOiB7CiAgICAgICAgICAgICAgICAicGF0aCI6ICJcL3RyVGVsZWdyYW3wn4eo8J+HsyBAV2FuZ0NhaTIiLAogICAgICAgICAgICAgICAgImhlYWRlcnMiOiB7CiAgICAgICAgICAgICAgICAgICAgIkhvc3QiOiAiS29tYS1ZVC5QQUdlUy5EZXYiCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9Cl0kJA==QXJyYXkkIm91dGJvdW5kcyI6WwogICAgewogICAgICAgICJwcm90b2NvbCI6ICJmcmVlZG9tIiwKICAgICAgICAidGFnIjogImRpcmVjdCIKICAgIH0sCiAgICB7CiAgICAgICAgInByb3RvY29sIjogInRyb2phbiIsCiAgICAgICAgInRhZyI6ICJ4cmF5LW91dCIsCiAgICAgICAgInNldHRpbmdzIjogewogICAgICAgICAgICAic2VydmVycyI6IFsKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAiYWRkcmVzcyI6ICIxMDMuMTI1LjIxNi4yMiIsCiAgICAgICAgICAgICAgICAgICAgInBvcnQiOiA4NDQzLAogICAgICAgICAgICAgICAgICAgICJwYXNzd29yZCI6ICI4cjxbOSdsNmhBTyM4WlFpIiwKICAgICAgICAgICAgICAgICAgICAibGV2ZWwiOiAwLAogICAgICAgICAgICAgICAgICAgICJlbWFpbCI6ICLkuprlpKrlnLDljLogVjJDUk9TUy5DT00iCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIF0KICAgICAgICB9LAogICAgICAgICJzdHJlYW1TZXR0aW5ncyI6IHsKICAgICAgICAgICAgIm5ldHdvcmsiOiAid3MiLAogICAgICAgICAgICAic2VjdXJpdHkiOiAidGxzIiwKICAgICAgICAgICAgInRsc1NldHRpbmdzIjogewogICAgICAgICAgICAgICAgImFsbG93SW5zZWN1cmUiOiB0cnVlLAogICAgICAgICAgICAgICAgInNlcnZlck5hbWUiOiAiS29tYS1ZVC5QQUdlUy5EZXYiCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgICJ3c1NldHRpbmdzIjogewogICAgICAgICAgICAgICAgInBhdGgiOiAiXC90clRlbGVncmFt8J+HqPCfh7MgQFdhbmdDYWkyIiwKICAgICAgICAgICAgICAgICJoZWFkZXJzIjogewogICAgICAgICAgICAgICAgICAgICJIb3N0IjogIktvbWEtWVQuUEFHZVMuRGV2IgogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfQpdJCQ=QXJyYXkkIm91dGJvdW5kcyI6WwogICAgewogICAgICAgICJwcm90b2NvbCI6ICJmcmVlZG9tIiwKICAgICAgICAidGFnIjogImRpcmVjdCIKICAgIH0sCiAgICB7CiAgICAgICAgInByb3RvY29sIjogInRyb2phbiIsCiAgICAgICAgInRhZyI6ICJ4cmF5LW91dCIsCiAgICAgICAgInNldHRpbmdzIjogewogICAgICAgICAgICAic2VydmVycyI6IFsKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAiYWRkcmVzcyI6ICIxNTkuMjIzLjkzLjgwIiwKICAgICAgICAgICAgICAgICAgICAicG9ydCI6IDQ0MywKICAgICAgICAgICAgICAgICAgICAicGFzc3dvcmQiOiAiOHI8WzknbDZoQU8jOFpRaSIsCiAgICAgICAgICAgICAgICAgICAgImxldmVsIjogMCwKICAgICAgICAgICAgICAgICAgICAiZW1haWwiOiAi576O5Zu9IFYyQ1JPU1MuQ09NIgogICAgICAgICAgICAgICAgfQogICAgICAgICAgICBdCiAgICAgICAgfSwKICAgICAgICAic3RyZWFtU2V0dGluZ3MiOiB7CiAgICAgICAgICAgICJuZXR3b3JrIjogIndzIiwKICAgICAgICAgICAgInNlY3VyaXR5IjogInRscyIsCiAgICAgICAgICAgICJ0bHNTZXR0aW5ncyI6IHsKICAgICAgICAgICAgICAgICJhbGxvd0luc2VjdXJlIjogdHJ1ZSwKICAgICAgICAgICAgICAgICJzZXJ2ZXJOYW1lIjogIktvbWEtWVQuUEFHZVMuRGV2IgogICAgICAgICAgICB9LAogICAgICAgICAgICAid3NTZXR0aW5ncyI6IHsKICAgICAgICAgICAgICAgICJwYXRoIjogIlwvdHJUZWxlZ3JhbfCfh6jwn4ezIEBXYW5nQ2FpMiIsCiAgICAgICAgICAgICAgICAiaGVhZGVycyI6IHsKICAgICAgICAgICAgICAgICAgICAiSG9zdCI6ICJLb21hLVlULlBBR2VTLkRldiIKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0KXSQk|1.0|1.0|http://www.google.com|<a href="1111111">通知</a>
+Array$"outbounds":[
+    {
+        "protocol": "freedom",
+        "tag": "direct"
+    },
+    {
+        "protocol": "trojan",
+        "tag": "xray-out",
+        "settings": {
+            "servers": [
+                {
+                    "address": "45.8.112.158",
+                    "port": 443,
+                    "password": "8r<[9'l6hAO#8ZQi",
+                    "level": 0,
+                    "email": "日本大阪 xTom\/AS4785"
+                }
+            ]
+        },
+        "streamSettings": {
+            "network": "ws",
+            "security": "tls",
+            "tlsSettings": {
+                "allowInsecure": true,
+                "serverName": "Koma-YT.PAGeS.Dev"
+            },
+            "wsSettings": {
+                "path": "\/trTelegram🇨🇳 @WangCai2",
+                "headers": {
+                    "Host": ""
+                }
+            }
+        }
+    }
+]<br/><br/>Array$"outbounds":[
+    {
+        "protocol": "freedom",
+        "tag": "direct"
+    },
+    {
+        "protocol": "trojan",
+        "tag": "xray-out",
+        "settings": {
+            "servers": [
+                {
+                    "address": "72.56.21.49",
+                    "port": 443,
+                    "password": "8r<[9'l6hAO#8ZQi",
+                    "level": 0,
+                    "email": "美国 佛罗里达州迈阿密市"
+                }
+            ]
+        },
+        "streamSettings": {
+            "network": "ws",
+            "security": "tls",
+            "tlsSettings": {
+                "allowInsecure": true,
+                "serverName": "Koma-YT.PAGeS.Dev"
+            },
+            "wsSettings": {
+                "path": "\/trTelegram🇨🇳 @WangCai2",
+                "headers": {
+                    "Host": "Koma-YT.PAGeS.Dev"
+                }
+            }
+        }
+    }
+]<br/><br/>Array$"outbounds":[
+    {
+        "protocol": "freedom",
+        "tag": "direct"
+    },
+    {
+        "protocol": "trojan",
+        "tag": "xray-out",
+        "settings": {
+            "servers": [
+                {
+                    "address": "166.1.60.121",
+                    "port": 443,
+                    "password": "8r<[9'l6hAO#8ZQi",
+                    "level": 0,
+                    "email": "美国 V2CROSS.COM"
+                }
+            ]
+        },
+        "streamSettings": {
+            "network": "ws",
+            "security": "tls",
+            "tlsSettings": {
+                "allowInsecure": true,
+                "serverName": "Koma-YT.PAGeS.Dev"
+            },
+            "wsSettings": {
+                "path": "\/trTelegram🇨🇳 @WangCai2",
+                "headers": {
+                    "Host": "Koma-YT.PAGeS.Dev"
+                }
+            }
+        }
+    }
+]<br/><br/>Array$"outbounds":[
+    {
+        "protocol": "freedom",
+        "tag": "direct"
+    },
+    {
+        "protocol": "trojan",
+        "tag": "xray-out",
+        "settings": {
+            "servers": [
+                {
+                    "address": "216.128.134.116",
+                    "port": 443,
+                    "password": "8r<[9'l6hAO#8ZQi",
+                    "level": 0,
+                    "email": "美国 V2CROSS.COM"
+                }
+            ]
+        },
+        "streamSettings": {
+            "network": "ws",
+            "security": "tls",
+            "tlsSettings": {
+                "allowInsecure": true,
+                "serverName": "Koma-YT.PAGeS.Dev"
+            },
+            "wsSettings": {
+                "path": "\/trTelegram🇨🇳 @WangCai2",
+                "headers": {
+                    "Host": "Koma-YT.PAGeS.Dev"
+                }
+            }
+        }
+    }
+]<br/><br/>Array$"outbounds":[
+    {
+        "protocol": "freedom",
+        "tag": "direct"
+    },
+    {
+        "protocol": "trojan",
+        "tag": "xray-out",
+        "settings": {
+            "servers": [
+                {
+                    "address": "91.107.158.211",
+                    "port": 8443,
+                    "password": "8r<[9'l6hAO#8ZQi",
+                    "level": 0,
+                    "email": "俄罗斯 V2CROSS.COM"
+                }
+            ]
+        },
+        "streamSettings": {
+            "network": "ws",
+            "security": "tls",
+            "tlsSettings": {
+                "allowInsecure": false,
+                "serverName": "Koma-YT.PAGeS.Dev"
+            },
+            "wsSettings": {
+                "path": "\/trTelegram🇨🇳 @WangCai2",
+                "headers": {
+                    "Host": "Koma-YT.PAGeS.Dev"
+                }
+            }
+        }
+    }
+]<br/><br/>Array$"outbounds":[
+    {
+        "protocol": "freedom",
+        "tag": "direct"
+    },
+    {
+        "protocol": "trojan",
+        "tag": "xray-out",
+        "settings": {
+            "servers": [
+                {
+                    "address": "57.129.47.4",
+                    "port": 2053,
+                    "password": "8r<[9'l6hAO#8ZQi",
+                    "level": 0,
+                    "email": "法国 国际航空电讯集团公司(SITA)"
+                }
+            ]
+        },
+        "streamSettings": {
+            "network": "ws",
+            "security": "tls",
+            "tlsSettings": {
+                "allowInsecure": false,
+                "serverName": "Koma-YT.PAGeS.Dev"
+            },
+            "wsSettings": {
+                "path": "\/trTelegram🇨🇳 @WangCai2",
+                "headers": {
+                    "Host": "Koma-YT.PAGeS.Dev"
+                }
+            }
+        }
+    }
+]<br/><br/>Array$"outbounds":[
+    {
+        "protocol": "freedom",
+        "tag": "direct"
+    },
+    {
+        "protocol": "trojan",
+        "tag": "xray-out",
+        "settings": {
+            "servers": [
+                {
+                    "address": "103.125.216.22",
+                    "port": 8443,
+                    "password": "8r<[9'l6hAO#8ZQi",
+                    "level": 0,
+                    "email": "亚太地区 V2CROSS.COM"
+                }
+            ]
+        },
+        "streamSettings": {
+            "network": "ws",
+            "security": "tls",
+            "tlsSettings": {
+                "allowInsecure": true,
+                "serverName": "Koma-YT.PAGeS.Dev"
+            },
+            "wsSettings": {
+                "path": "\/trTelegram🇨🇳 @WangCai2",
+                "headers": {
+                    "Host": "Koma-YT.PAGeS.Dev"
+                }
+            }
+        }
+    }
+]<br/><br/>Array$"outbounds":[
+    {
+        "protocol": "freedom",
+        "tag": "direct"
+    },
+    {
+        "protocol": "trojan",
+        "tag": "xray-out",
+        "settings": {
+            "servers": [
+                {
+                    "address": "159.223.93.80",
+                    "port": 443,
+                    "password": "8r<[9'l6hAO#8ZQi",
+                    "level": 0,
+                    "email": "美国 V2CROSS.COM"
+                }
+            ]
+        },
+        "streamSettings": {
+            "network": "ws",
+            "security": "tls",
+            "tlsSettings": {
+                "allowInsecure": true,
+                "serverName": "Koma-YT.PAGeS.Dev"
+            },
+            "wsSettings": {
+                "path": "\/trTelegram🇨🇳 @WangCai2",
+                "headers": {
+                    "Host": "Koma-YT.PAGeS.Dev"
+                }
+            }
+        }
+    }
+]<br/><br/>|1.0|1.0|http://www.google.com|<a href="1111111">通知</a>
