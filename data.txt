@@ -32,7 +32,7 @@
             }
         }
     }
-]<br/><br/>荷兰$"outbounds":[
+]$$荷兰$"outbounds":[
     {
         "protocol": "freedom",
         "tag": "direct"
@@ -66,7 +66,28 @@
             }
         }
     }
-]<br/><br/>美国$"outbounds":[
+]$$越南$"outbounds":[
+    {
+        "protocol": "freedom",
+        "tag": "direct"
+    },
+    {
+        "protocol": "shadowsocks",
+        "tag": "xray-out",
+        "settings": {
+            "servers": [
+                {
+                    "address": "103.186.155.47",
+                    "port": 38388,
+                    "method": "aes-256-cfb",
+                    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+                    "level": 1,
+                    "remark": "安徽省马鞍山市 联通"
+                }
+            ]
+        }
+    }
+]$$美国$"outbounds":[
     {
         "protocol": "freedom",
         "tag": "direct"
@@ -100,7 +121,7 @@
             }
         }
     }
-]<br/><br/>美国$"outbounds":[
+]$$美国$"outbounds":[
     {
         "protocol": "freedom",
         "tag": "direct"
@@ -134,7 +155,28 @@
             }
         }
     }
-]<br/><br/>德意志联邦共和国$"outbounds":[
+]$$韩国$"outbounds":[
+    {
+        "protocol": "freedom",
+        "tag": "direct"
+    },
+    {
+        "protocol": "shadowsocks",
+        "tag": "xray-out",
+        "settings": {
+            "servers": [
+                {
+                    "address": "211.178.105.134",
+                    "port": 6123,
+                    "method": "aes-256-cfb",
+                    "password": "qwerREWQ@@",
+                    "level": 1,
+                    "remark": "韩国 首尔"
+                }
+            ]
+        }
+    }
+]$$德意志联邦共和国$"outbounds":[
     {
         "protocol": "freedom",
         "tag": "direct"
@@ -168,7 +210,28 @@
             }
         }
     }
-]<br/><br/>德国$"outbounds":[
+]$$越南$"outbounds":[
+    {
+        "protocol": "freedom",
+        "tag": "direct"
+    },
+    {
+        "protocol": "shadowsocks",
+        "tag": "xray-out",
+        "settings": {
+            "servers": [
+                {
+                    "address": "103.186.155.67",
+                    "port": 38388,
+                    "method": "aes-256-cfb",
+                    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+                    "level": 1,
+                    "remark": "安徽省马鞍山市 联通"
+                }
+            ]
+        }
+    }
+]$$德国$"outbounds":[
     {
         "protocol": "freedom",
         "tag": "direct"
@@ -202,7 +265,7 @@
             }
         }
     }
-]<br/><br/>日本$"outbounds":[
+]$$日本$"outbounds":[
     {
         "protocol": "freedom",
         "tag": "direct"
@@ -236,7 +299,49 @@
             }
         }
     }
-]<br/><br/>新加坡$"outbounds":[
+]$$越南$"outbounds":[
+    {
+        "protocol": "freedom",
+        "tag": "direct"
+    },
+    {
+        "protocol": "shadowsocks",
+        "tag": "xray-out",
+        "settings": {
+            "servers": [
+                {
+                    "address": "103.186.154.203",
+                    "port": 38388,
+                    "method": "aes-256-cfb",
+                    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+                    "level": 1,
+                    "remark": "安徽省马鞍山市 联通"
+                }
+            ]
+        }
+    }
+]$$越南$"outbounds":[
+    {
+        "protocol": "freedom",
+        "tag": "direct"
+    },
+    {
+        "protocol": "shadowsocks",
+        "tag": "xray-out",
+        "settings": {
+            "servers": [
+                {
+                    "address": "103.186.154.149",
+                    "port": 38388,
+                    "method": "aes-256-cfb",
+                    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+                    "level": 1,
+                    "remark": "安徽省马鞍山市 联通"
+                }
+            ]
+        }
+    }
+]$$新加坡$"outbounds":[
     {
         "protocol": "freedom",
         "tag": "direct"
@@ -270,4 +375,4 @@
             }
         }
     }
-]<br/><br/>|1.0|1.0|http://www.google.com|<a href="1111111">通知</a>
+]$$|1.0|1.0|http://www.google.com|<a href="1111111">通知</a>
