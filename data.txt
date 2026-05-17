@@ -66,6 +66,34 @@
             }
         }
     }
+]$$香港$"outbounds":[
+    {
+        "protocol": "freedom",
+        "tag": "direct"
+    },
+    {
+        "protocol": "vless",
+        "tag": "xray-out",
+        "settings": {
+            "vnext": [
+                {
+                    "address": "hk.chinablog.xyz",
+                    "port": 8080,
+                    "users": [
+                        {
+                            "id": "360f1d71-f8dd-4c71-aa4f-347486312dca",
+                            "encryption": "none",
+                            "flow": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "streamSettings": {
+            "network": "tcp",
+            "security": "reality"
+        }
+    }
 ]$$越南$"outbounds":[
     {
         "protocol": "freedom",
@@ -155,6 +183,82 @@
             }
         }
     }
+]$$加拿大$"outbounds":[
+    {
+        "protocol": "freedom",
+        "tag": "direct"
+    },
+    {
+        "protocol": "vless",
+        "tag": "xray-out",
+        "settings": {
+            "vnext": [
+                {
+                    "address": "adf.ly",
+                    "port": 443,
+                    "users": [
+                        {
+                            "id": "1679af35-6dd6-4c09-ae3b-18f239217f3e",
+                            "encryption": "none",
+                            "flow": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "streamSettings": {
+            "network": "ws",
+            "security": "tls",
+            "tlsSettings": {
+                "allowInsecure": true,
+                "serverName": "rAyAn-007.pArViN.DpDnS.OrG"
+            },
+            "wsSettings": {
+                "path": "\/",
+                "headers": {
+                    "Host": "rayan-007.parvin.dpdns.org"
+                }
+            }
+        }
+    }
+]$$加拿大$"outbounds":[
+    {
+        "protocol": "freedom",
+        "tag": "direct"
+    },
+    {
+        "protocol": "vless",
+        "tag": "xray-out",
+        "settings": {
+            "vnext": [
+                {
+                    "address": "104.18.32.47",
+                    "port": 2053,
+                    "users": [
+                        {
+                            "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+                            "encryption": "none",
+                            "flow": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "streamSettings": {
+            "network": "ws",
+            "security": "tls",
+            "tlsSettings": {
+                "allowInsecure": true,
+                "serverName": "sni.111000.indevs.in"
+            },
+            "wsSettings": {
+                "path": "\/",
+                "headers": {
+                    "Host": "sni.111000.indevs.in"
+                }
+            }
+        }
+    }
 ]$$韩国$"outbounds":[
     {
         "protocol": "freedom",
@@ -210,6 +314,38 @@
             }
         }
     }
+]$$俄罗斯联邦$"outbounds":[
+    {
+        "protocol": "freedom",
+        "tag": "direct"
+    },
+    {
+        "protocol": "vless",
+        "tag": "xray-out",
+        "settings": {
+            "vnext": [
+                {
+                    "address": "r1.mizulina.top",
+                    "port": 22231,
+                    "users": [
+                        {
+                            "id": "afcac633-0e1a-46c3-bef2-cc01cc0097c8",
+                            "encryption": "none",
+                            "flow": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "streamSettings": {
+            "network": "tcp",
+            "security": "tls",
+            "tlsSettings": {
+                "allowInsecure": false,
+                "serverName": "r1.mizulina.top"
+            }
+        }
+    }
 ]$$越南$"outbounds":[
     {
         "protocol": "freedom",
@@ -229,6 +365,82 @@
                     "remark": "安徽省马鞍山市 联通"
                 }
             ]
+        }
+    }
+]$$加拿大$"outbounds":[
+    {
+        "protocol": "freedom",
+        "tag": "direct"
+    },
+    {
+        "protocol": "vless",
+        "tag": "xray-out",
+        "settings": {
+            "vnext": [
+                {
+                    "address": "104.20.6.134",
+                    "port": 443,
+                    "users": [
+                        {
+                            "id": "a01daac7-1e65-4645-854d-b47d226f6b08",
+                            "encryption": "none",
+                            "flow": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "streamSettings": {
+            "network": "ws",
+            "security": "tls",
+            "tlsSettings": {
+                "allowInsecure": true,
+                "serverName": "y6-3cj.PAgES.DEV"
+            },
+            "wsSettings": {
+                "path": "\/",
+                "headers": {
+                    "Host": "y6-3cj.PAgES.DEV"
+                }
+            }
+        }
+    }
+]$$英国$"outbounds":[
+    {
+        "protocol": "freedom",
+        "tag": "direct"
+    },
+    {
+        "protocol": "vless",
+        "tag": "xray-out",
+        "settings": {
+            "vnext": [
+                {
+                    "address": "45.85.119.191",
+                    "port": 2096,
+                    "users": [
+                        {
+                            "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+                            "encryption": "none",
+                            "flow": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "streamSettings": {
+            "network": "ws",
+            "security": "tls",
+            "tlsSettings": {
+                "allowInsecure": true,
+                "serverName": "sni.my111000.tech"
+            },
+            "wsSettings": {
+                "path": "\/",
+                "headers": {
+                    "Host": "sni.my111000.tech"
+                }
+            }
         }
     }
 ]$$德国$"outbounds":[
@@ -295,6 +507,40 @@
                 "path": "\/trTelegram🇨🇳 @WangCai2",
                 "headers": {
                     "Host": "Koma-YT.PAGeS.Dev"
+                }
+            }
+        }
+    }
+]$$加拿大$"outbounds":[
+    {
+        "protocol": "freedom",
+        "tag": "direct"
+    },
+    {
+        "protocol": "vless",
+        "tag": "xray-out",
+        "settings": {
+            "vnext": [
+                {
+                    "address": "104.20.5.134",
+                    "port": 2052,
+                    "users": [
+                        {
+                            "id": "d342d11e-d424-4583-b36e-524ab1f0afa4",
+                            "encryption": "none",
+                            "flow": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "streamSettings": {
+            "network": "ws",
+            "security": "none",
+            "wsSettings": {
+                "path": "\/",
+                "headers": {
+                    "Host": "index.0x14.workers.dev"
                 }
             }
         }
