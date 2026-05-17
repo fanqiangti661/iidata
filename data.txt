@@ -621,4 +621,4 @@
             }
         }
     }
-]$$|1.0|1.0|http://www.google.com|<a href="1111111">通知</a>
+]|1.0|1.0|http://www.google.com|<a href="1111111">通知</a>
