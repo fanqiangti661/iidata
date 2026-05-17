@@ -1,4 +1,4 @@
-Array$"outbounds":[
+日本$"outbounds":[
     {
         "protocol": "freedom",
         "tag": "direct"
@@ -32,7 +32,7 @@ Array$"outbounds":[
             }
         }
     }
-]<br/><br/>Array$"outbounds":[
+]<br/><br/>荷兰$"outbounds":[
     {
         "protocol": "freedom",
         "tag": "direct"
@@ -66,7 +66,7 @@ Array$"outbounds":[
             }
         }
     }
-]<br/><br/>Array$"outbounds":[
+]<br/><br/>美国$"outbounds":[
     {
         "protocol": "freedom",
         "tag": "direct"
@@ -100,7 +100,7 @@ Array$"outbounds":[
             }
         }
     }
-]<br/><br/>Array$"outbounds":[
+]<br/><br/>美国$"outbounds":[
     {
         "protocol": "freedom",
         "tag": "direct"
@@ -134,7 +134,7 @@ Array$"outbounds":[
             }
         }
     }
-]<br/><br/>Array$"outbounds":[
+]<br/><br/>德意志联邦共和国$"outbounds":[
     {
         "protocol": "freedom",
         "tag": "direct"
@@ -168,7 +168,7 @@ Array$"outbounds":[
             }
         }
     }
-]<br/><br/>Array$"outbounds":[
+]<br/><br/>德国$"outbounds":[
     {
         "protocol": "freedom",
         "tag": "direct"
@@ -202,7 +202,7 @@ Array$"outbounds":[
             }
         }
     }
-]<br/><br/>Array$"outbounds":[
+]<br/><br/>日本$"outbounds":[
     {
         "protocol": "freedom",
         "tag": "direct"
@@ -236,7 +236,7 @@ Array$"outbounds":[
             }
         }
     }
-]<br/><br/>Array$"outbounds":[
+]<br/><br/>新加坡$"outbounds":[
     {
         "protocol": "freedom",
         "tag": "direct"
